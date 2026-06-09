@@ -19,12 +19,15 @@ Serving Size:
 
 Ingredients (clear list with quantities)
 e.g. 
-first ingredient, quantity
-second ingredient, quantity
-third ingredient, quantity
+first ingredient (quantity),
+second ingredient (quantity),
+third ingredient (quantity)
 
 Method (step-by-step instructions)
 e.g.
   First step
+  
   Second step
+  
   Third step
+  
