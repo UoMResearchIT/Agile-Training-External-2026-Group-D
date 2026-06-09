@@ -1,4 +1,4 @@
-# Chicken Tikka
+# Chana Bhaji
 
 - Cuisine Type: Indian
 - Preparation Time:
