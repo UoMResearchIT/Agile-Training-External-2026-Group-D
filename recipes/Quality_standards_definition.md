@@ -19,10 +19,10 @@
 3. Images are centre aligned
 
 ## Images
-Size is a x b 
-Colour image
-Copyright free
-Directly represents dish
+- Size is a x b 
+- Colour image
+- Copyright free
+- Directly represents dish
 
 
 
