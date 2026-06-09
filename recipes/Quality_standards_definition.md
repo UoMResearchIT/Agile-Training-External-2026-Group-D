@@ -1,26 +1,29 @@
-# Recipe Title
+# Quality Standards
 
-- Cuisine Type:
-- Preparation Time:
-- Cooking Time:
-- Serving Size:
+- Language: Eng (UK)
+- Recipe names are per native language
+- Technique terms are per glossary
+  
+## Style
 
-## Ingredients (clear list with quantities)
+- Font is Arial, 
+- Header 1 is font size 16, bold
+- Header 2 is font size 14, bold
+- Body font size is 12
+- Tone is (tone)
+    
+## Formatting
 
-- first ingredient, quantity
-- second ingredient, quantity
-- third ingredient, quantity
+1. Text layout justified
+2. margins are x
+3. Images are centre aligned
 
-## Method (step-by-step instructions)
+## Images
+Size is a x b 
+Colour image
+Copyright free
+Directly represents dish
 
-1. First step
-2. Second step
-3. Third step
 
-## Serving Suggestions
-
-## Photo (optional)
-
-![An empty white bowl](./empty-white-bowl-on-white-background-png.png)
 
 For help with writing Markdown, see [The Markdown Guide](https://www.markdownguide.org/).
