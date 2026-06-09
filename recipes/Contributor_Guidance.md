@@ -49,6 +49,14 @@ Serving suggestion
 
 Photo of finished dish
 
+Note:
+
+Photos must be of actually cooked dishes
+
+Photos must be well lit on a white background
+
+Photos must show realistic results for an average cook
+
 
 For help with writing Markdown, see [The Markdown Guide](https://www.markdownguide.org/getting-started/).
   
