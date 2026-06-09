@@ -24,6 +24,7 @@ second ingredient (quantity),
 third ingredient (quantity)
 
 Method (step-by-step instructions)
+
 e.g.
   First step
   
