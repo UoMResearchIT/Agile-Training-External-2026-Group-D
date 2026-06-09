@@ -4,10 +4,19 @@ This guidance has been developed to allow you to easily submit your recipe(s) in
 
 A Recipe Template document has been developed that shows all the required and optional elements we need, and the order in which they are needed. 
 This document can be found [here](./recipe_template.md).
+A list of the required and optional elements is also included at the end of this document.
 
-In brief, the required information includes: 
+We would also welcome a short description (3-4 lines) about the culture your cuisine is from, and the role of food in that culture. This will be used to develop a brief introduction to the relevant section of the recipe book. 
 
-:Recipe Title
+All contributions should be emailed to XYZAgile@training.emailaddress by June 17th 2026.
+
+Thank you again for contributing to our recipe book! We hope you enjoy exploring the final publication!
+
+
+Required and optional recipe information:
+The required information includes: 
+
+Recipe Title
 
 Cuisine Type: (e.g. Japanese)
 
@@ -32,4 +41,14 @@ e.g.
   Second step
   
   Third step
+
+
+Optional information includes
+
+Serving suggestion
+
+Photo of finished dish
+
+
+
   
