@@ -1,1 +1,1 @@
-Add your Japanese recipes to this folder.
+Add your Japanese recipes (e.g. Sushi rolls) to this folder.
