@@ -9,13 +9,16 @@ In brief, the required information includes:
 
 :Recipe Title
 
-:::Cuisine Type: (e.g. Japanese)
-:::Preparation Time:
-:::Cooking Time:
+Cuisine Type: (e.g. Japanese)
+
+Preparation Time:
+
+Cooking Time:
 
 Serving Size:
 
 Ingredients (clear list with quantities)
+
 e.g. 
 first ingredient (quantity),
 second ingredient (quantity),
