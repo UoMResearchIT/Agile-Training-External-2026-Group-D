@@ -6,16 +6,23 @@ A Recipe Template document has been developed that shows all the required and op
 This document can be found [here](./recipe_template.md).
 
 In brief, the required information includes: 
+
 Recipe Title
+
 Cuisine Type: (e.g. Japanese)
+
 Preparation Time:
+
 Cooking Time:
+
 Serving Size:
+
 Ingredients (clear list with quantities)
 e.g.
   first ingredient, quantity
   second ingredient, quantity
   third ingredient, quantity
+
 Method (step-by-step instructions)
 e.g.
   First step
