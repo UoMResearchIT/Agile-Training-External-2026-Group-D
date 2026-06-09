@@ -1,4 +1,4 @@
-# Tacos al pastor
+# Vegetarian Chilli
 
 - Cuisine Type: Mexican
 - Preparation Time:
