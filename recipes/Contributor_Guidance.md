@@ -7,9 +7,9 @@ This document can be found [here](./recipe_template.md).
 
 In brief, the required information includes: 
 
-Recipe Title
+:::::Recipe Title
 
-Cuisine Type: (e.g. Japanese)
+:::::Cuisine Type: (e.g. Japanese)
 
 Preparation Time:
 
