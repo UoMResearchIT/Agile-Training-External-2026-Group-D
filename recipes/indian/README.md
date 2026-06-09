@@ -1,1 +1,1 @@
-Add your Indian recipes to this folder.
+Add your Indian recipes (e.g. Chicken Tikka) to this folder.
