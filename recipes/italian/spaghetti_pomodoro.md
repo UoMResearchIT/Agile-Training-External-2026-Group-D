@@ -1,4 +1,4 @@
-# Spaghetti Carbonara
+# Spaghetti Pomodoro
 
 - Cuisine Type:
 - Preparation Time:
