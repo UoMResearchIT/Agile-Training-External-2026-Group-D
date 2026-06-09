@@ -1,1 +1,1 @@
-Add your Mexican recipes to this folder.
+Add your Mexican recipes (e.g. Tacos al pastor) to this folder.
