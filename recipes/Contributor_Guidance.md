@@ -18,10 +18,10 @@ Cooking Time:
 Serving Size:
 
 Ingredients (clear list with quantities)
-e.g.
-  first ingredient, quantity
-  second ingredient, quantity
-  third ingredient, quantity
+e.g. 
+first ingredient, quantity
+second ingredient, quantity
+third ingredient, quantity
 
 Method (step-by-step instructions)
 e.g.
