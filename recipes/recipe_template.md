@@ -19,7 +19,7 @@
 
 ## Serving Suggestions
 
-## Photo (optional)
+## Photo 
 
 ![An empty white bowl](./empty-white-bowl-on-white-background-png.png)
 
