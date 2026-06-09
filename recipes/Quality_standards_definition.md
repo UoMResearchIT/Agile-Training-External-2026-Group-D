@@ -19,7 +19,7 @@
 3. Images are centre aligned
 
 ## Images
-- Size is a x b 
+- Size is 250x250
 - Colour image
 - Copyright free
 - Directly represents dish
