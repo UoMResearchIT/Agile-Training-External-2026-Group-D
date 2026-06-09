@@ -50,5 +50,5 @@ Serving suggestion
 Photo of finished dish
 
 
-
+For help with writing Markdown, see [The Markdown Guide](https://www.markdownguide.org/getting-started/).
   
