@@ -16,7 +16,7 @@ Thank you again for contributing to our recipe book! We hope you enjoy exploring
 Required and optional recipe information:
 The required information includes: 
 
-Recipe Title
+**Recipe Title**
 
 Cuisine Type: (e.g. Japanese)
 
@@ -49,7 +49,7 @@ Serving suggestion
 
 Photo of finished dish
 
-Note:
+**Note:**
 
 Photos must be of actually cooked dishes
 
