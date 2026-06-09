@@ -1,4 +1,4 @@
-# Sushi Rolls
+# Seaweed sushi rolls
 
 - Cuisine Type:
 - Preparation Time:
