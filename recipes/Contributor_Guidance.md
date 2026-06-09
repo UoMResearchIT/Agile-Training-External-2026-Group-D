@@ -6,7 +6,7 @@ A Recipe Template document has been developed that shows all the required and op
 This document can be found [here](./recipe_template.md).
 A list of the required and optional elements is also included at the end of this document.
 
-We would also welcome a short description (3-4 lines) about the culture your cuisine is from, and the role of food in that culture. This will be used to develop a brief introduction to the relevant section of the recipe book. 
+We would like to include a short description (3-4 lines) about the culture your cuisine is from, and the role of food in that culture. This will be used to develop a brief introduction to the relevant section of the recipe book. Please give details about how your recipe is informed by and reflects your cultural landscape.
 
 All contributions should be emailed to XYZAgile@training.emailaddress by June 17th 2026.
 
